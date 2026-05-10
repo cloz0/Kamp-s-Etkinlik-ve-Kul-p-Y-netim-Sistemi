@@ -1,6 +1,6 @@
-# Kampüs Etkinlik ve Kulüp Yönetim Sistemi
+# Kampus Etkinlik ve Kulup Yonetim Sistemi
 
-Üniversite bünyesindeki öğrenci kulüplerinin ve kampüs etkinliklerinin dijital ortamda yönetilmesini sağlayan web tabanlı bir otomasyon sistemidir. Web Programlama dersi proje ödevi kapsamında geliştirilmiştir.
+Öğrenci kulüplerinin ve kampüs etkinliklerinin dijital ortamda yönetilmesini sağlayan web tabanlı bir otomasyon sistemidir. Web Programlama dersi proje ödevi kapsamında geliştirilmiştir.
 
 ## 💻 Kullanılan Teknolojiler
 * **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
