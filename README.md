@@ -28,7 +28,7 @@ Projeyi yerel sunucunuzda (localhost) çalıştırmak için aşağıdaki adımla
 2. XAMPP kontrol panelinden **Apache** ve **MySQL** servislerini başlatın.
 3. Tarayıcınızdan `localhost/phpmyadmin` adresine gidin.
 4. `kampus_db` adında yeni bir veritabanı oluşturun (Karakter seti: `utf8mb4_general_ci` olmalıdır).
-5. Proje ana dizininde bulunan `database.sql` dosyasını oluşturduğunuz bu veritabanına içe aktarın (Import).
+5. Proje ana dizininde bulunan `dump.sql` dosyasını oluşturduğunuz bu veritabanına içe aktarın (Import).
 6. Tarayıcınızdan `localhost/kampus-etkinlik` (veya belirlediğiniz klasör adı) adresine giderek projeyi çalıştırın.
 
 ---
